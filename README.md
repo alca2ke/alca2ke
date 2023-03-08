@@ -1,19 +1,7 @@
 ### Hi there, Im Brian👋
-
-<!--
-**alca2ke/alca2ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...java
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
--->
+- 👀 I’m learning software development
+- 🌱 I’m currently working on C.
+- 📫 Reach me via balca5518@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alca2ke&show_icons=true&theme=radical)
 
